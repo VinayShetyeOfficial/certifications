@@ -22,8 +22,6 @@
 
 This repository is a categorized, verifiable archive of certifications earned across core areas of my software engineering profile: software engineering fundamentals, frontend development, Python, AI/ML, and UX design.
 
-Each certificate is stored as a PDF, organized by domain and provider, so recruiters, hiring managers, and collaborators can quickly verify coursework and certification milestones alongside my hands-on project portfolio.
-
 ---
 
 ## Highlights
