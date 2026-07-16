@@ -57,34 +57,6 @@ Each certificate is stored as a PDF, organized by domain and provider, so recrui
 
 ---
 
-## Repository Structure
-
-```text
-Certifications-Portfolio/
-├── README.md
-├── assets/
-│   └── hero.png
-├── Software-Engineering-Certifications/
-│   ├── Meta - Software Engineer/
-│   ├── Amazon - Software Developer/
-│   ├── LinkedIn - Python Essential Training/
-│   ├── Udemy - JavaScript, PHP and Python Programming/
-│   └── HackerRank - Software Engineer/
-├── Frontend-Certifications/
-│   ├── Meta - Front-End Developer/
-│   ├── LinkedIn - React.js Essential Training/
-│   ├── Udemy - React Front To Back/
-│   └── Udemy - Javascript Practicals/
-├── AI-ML-Certifications/
-│   └── Udemy - Artificial Intelligence Expert Course/
-└── UX-Design-Certifications/
-    └── Google - UX Design/
-```
-
-Each provider folder contains the original certificate PDF(s), preserved with their official titles.
-
----
-
 ## Software Engineering Certifications
 
 | Provider | Certification |
@@ -101,7 +73,7 @@ Each provider folder contains the original certificate PDF(s), preserved with th
 
 | Provider | Certification |
 |---|---|
-| <img src="https://img.shields.io/badge/Meta-0467DF.svg" alt="Meta"> | [Meta Front-End Developer](./Frontend-Certifications/Meta%20-%20Front-End%20Developer/Meta%20Front%20End%20Developer.pdf) |
+| <img src="https://img.shields.io/badge/Meta-0467DF.svg" alt="Meta"> | [Meta Front-End Developer](/Frontend-Certifications/Meta%20-%20Front-End%20Developer/Meta%20Front-End%20Developer.pdf) |
 | <img src="https://img.shields.io/badge/Meta-0467DF.svg" alt="Meta"> | [Meta - Advanced React](./Frontend-Certifications/Meta%20-%20Front-End%20Developer/Meta%20-%20Advanced%20React.pdf) |
 | <img src="https://img.shields.io/badge/Meta-0467DF.svg" alt="Meta"> | [Meta - Front-End Developer Capstone](./Frontend-Certifications/Meta%20-%20Front-End%20Developer/Meta%20-%20Front-End%20Developer%20Capstone.pdf) |
 | <img src="https://img.shields.io/badge/LinkedIn%20Learning-0A66C2.svg" alt="LinkedIn Learning"> | [React.js Essential Training](./Frontend-Certifications/LinkedIn%20-%20React.js%20Essential%20Training/React.js%20Essential%20Training.pdf) |
@@ -109,7 +81,6 @@ Each provider folder contains the original certificate PDF(s), preserved with th
 | <img src="https://img.shields.io/badge/Udemy-A435F0.svg" alt="Udemy"> | [Javascript Practicals](./Frontend-Certifications/Udemy%20-%20Javascript%20Practicals/Javascript%20Practicals.pdf) |
 
 ---
-
 ## AI/ML Certifications
 
 | Provider | Certification |
@@ -132,8 +103,9 @@ All certificates in this repository are original PDFs issued directly by the res
 
 ---
 
+
 <div align="center">
 
-**More certifications will be added as I continue learning and building.**
+**⭐ More certifications will be added as I continue learning and building. ⭐**
 
 </div>
